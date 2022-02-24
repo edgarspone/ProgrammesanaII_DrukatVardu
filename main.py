@@ -8,5 +8,6 @@ print("Ričards")
 print(a-b)
 print(a*b)
 print(a/b)
+print("Mācos veidot versija kontroli")
 
 

@@ -6,5 +6,5 @@ print(a+b)
 print("Edgars")
 print("Ričards")
 print(a-b)
-
+print("Mācos veidot versija kontroli")
 
